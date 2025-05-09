@@ -1,0 +1,16 @@
+{
+    "name": "Cammello",
+    "description": "The official Cammello token",
+    "project_use": "Cammello is a community-driven microtransaction token on Algorand, designed to streamline peer-to-peer gifting and small-value commerce using atomic QR-code exchanges.",
+    "disclaimer": "Cammello is provided “as is” with no financial advice implied. Use at your own risk. The creators are not responsible for losses due to smart-contract bugs or misuses of the token.",
+    "ethic_of_use": "This token is not an endorsement of any commercial, political, or social entity. Cammello is intended solely as a community gift mechanism.",
+    "use_explanation": "By scanning a QR code, users can instantly swap micro-amounts of Algos for Cammelli in a single atomic transaction—no intermediaries needed. Recipients simply opt in and receive Cammelli as digital “thank you” gifts.", 
+    "spirit_test": "This is a test for the spirit of the acquiring party: whoever wishes to receive Cammelli in exchange for something that cannot be sold would be a fool. Conversely, the party should state that instead of receiving something, they would provide furniture for the maintenance of the entity involved (as was once done by noble individuals inspired by the myth of the cavalier).", 
+    "image": "https://KarmaOOP.github.io/cammello/images/cammello-icon.png",
+    "external_url": "https://KarmaOOP.github.io/cammello/",
+    "properties": {
+      "issuer": "Social Exp. Ltd.",
+      "ticker": "CMLLO"
+    }
+  }
+  
